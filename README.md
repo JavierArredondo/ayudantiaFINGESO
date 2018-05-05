@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-
 # Ayudantía FINGESO: Entorno de desarrollo
 
 En la ayudantía se ha visto como trabaja el entorno de desarrollo y cómo se desarrolla con este. El presente repositorio tiene la funcionalidad de servir como tutorial de Spring Framework y un repaso de conceptos que deben ser manejados en la asignatura Fundamentos de Ingeniería de Software.
@@ -17,7 +15,7 @@ En el transcurso del semestre se desarrollara una aplicación web, por lo cual s
 - **Tester de APIs:** [_Advanced REST client (Extensión de Chrome)_](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) o [_Postman_](https://www.getpostman.com/apps).
 
 ## Conocimientos previos
-
+A continuación se presenta una serie de conceptos que deberían manejar y algunos que deberían haber investigado para la primera entrega.
 
 ###Programación Orientada a Objetos
 - **Clase:**  Modelo o plantilla de un conjunto de objetos.
