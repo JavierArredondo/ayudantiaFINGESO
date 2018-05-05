@@ -17,7 +17,7 @@ En el transcurso del semestre se desarrollara una aplicación web, por lo cual s
 ## Conocimientos previos
 A continuación se presenta una serie de conceptos que deberían manejar y algunos que deberían haber investigado para la primera entrega.
 
-###Programación Orientada a Objetos
+### Programación Orientada a Objetos
 - **Clase:**  Modelo o plantilla de un conjunto de objetos.
 - **Objeto:** Instancia de una clase.
 - **Interfaz:** Colección de métodos abstractos y propiedades constantes. En las interfaces se especifica qué se debe hacer pero no su implementación. 
