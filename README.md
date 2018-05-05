@@ -18,6 +18,7 @@ En el transcurso del semestre se desarrollara una aplicación web, por lo cual s
 
 ## Conocimientos previos
 
+
 ###Programación Orientada a Objetos
 - **Clase:**  Modelo o plantilla de un conjunto de objetos.
 - **Objeto:** Instancia de una clase.
@@ -102,3 +103,6 @@ Siéntanse libres de ocupar la base de datos MySql con las siguientes credencial
   "Password": "password"  
   }
 ``` 
+Si quieren probar algunas APIs o saber como funcionan, les recomiendo ver:
+- https://pokeapi.co/
+- https://swapi.co/
