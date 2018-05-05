@@ -49,7 +49,7 @@ Para crear un nuevo proyecto existen dos pasos con la misma efectividad:
 - Descargar proyecto.
 - Abrir proyecto en IDE.
 
-<img src = "https://ibb.co/gDeZR7">
+[Imagen](https://ibb.co/gDeZR7)
 
 ##### Con Intelij IDEA
 - Dirigirse a la pestaña `File> New > Project...`
@@ -58,14 +58,14 @@ Para crear un nuevo proyecto existen dos pasos con la misma efectividad:
 - Escoger dependencias a utilizar.
 - Generar proyecto.
 
-<img src = "https://ibb.co/nABQYn">
+[Imagen](https://ibb.co/nABQYn)
 
 
 Es normal que para las dos opciones se demore al iniciar por primera vez, esto ocurre porque se están instalando las dependencias seleccionadas.
 
 ### Estructura de proyecto:
 
-<img src = "https://ibb.co/kfVPR7">
+[Imagen](https://ibb.co/kfVPR7)
 
 - **src:** Donde se encuentran las clases de Java.
   - **main**
